@@ -68,4 +68,4 @@ This explains how to create a website using node.js and express on MacOS. By the
 10.  Edit the line with type "A". Change the "points to" to the ip adress of your droplet.
 11.  Type in your domain name and you should see your website. If it doesn't work, wait a bit, and try to access it again.
 
-</div>
+</div># wogoai
